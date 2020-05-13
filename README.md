@@ -1,2 +1,5 @@
 # interaction-network-families
-A composite repository for Interaction Networks / Relation Networks families
+
+## About
+
+Interaction Networks / Visual Interaction Networks / Relation Networksの再現実装をしているレポジトリです。
